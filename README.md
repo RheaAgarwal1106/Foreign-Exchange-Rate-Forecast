@@ -22,3 +22,9 @@ highest improvement in RMSE of 30.66% was observed in random forest. Further, a 
 
 <img width="583" height="265" alt="image" src="https://github.com/user-attachments/assets/d7a66d3f-efe0-42e7-9ca1-b7caf035fd6e" />
 
+## Conclusion
+
+- This project gives a prediction model of foreign exchange rate of USD/INR on a monthly dataset from January 1990 to June 2022.
+- It presents a comparison in performance of statistical model (ARDL) and machine learning model (LASSO, SVR, XGBoost and Random Forest). Not much difference is observed in the performance of both the 
+categories of models, highlighting the importance of including explanatory variables for modelling foreign exchange rates. 
+- Bootstrapped XGBoost is the best performing algorithm with the lowest RMSE of 0.02416. The proposed hybrid model (LASSO+SVR) outperforms the individual models, indicating that foreign exchange rates gives better results when modelled considering both linear and non- linear trends. 
