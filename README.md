@@ -12,4 +12,13 @@ highest improvement in RMSE of 30.66% was observed in random forest. Further, a 
 
 - Improve prediction power of machine learning algorithms by implementing bootstrapping and bagging techniques 
 
-- Develop a hybrid model to capture coexisting linear and non- linear dependence of foreign exchange rates with macroeconomic indicators 
+- Develop a hybrid model to capture coexisting linear and non- linear dependence of foreign exchange rates with macroeconomic indicators
+
+## Algorithm
+
+<img width="439" height="418" alt="image" src="https://github.com/user-attachments/assets/adc93a51-628d-434a-900b-487037d0b8fa" />
+
+## Results
+
+<img width="583" height="265" alt="image" src="https://github.com/user-attachments/assets/d7a66d3f-efe0-42e7-9ca1-b7caf035fd6e" />
+
